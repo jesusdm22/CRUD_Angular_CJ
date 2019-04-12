@@ -5,9 +5,9 @@
                        | | | || |\  || |_\ \| |_| || |____| | | || |\ \     \___  |
                        \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
 
-                                    TRABAJO REALIZADO POR:
-                                    [JESÚS DÍAZ MUÑOZ](https://www.jdiaz.es/)
-                                   [CRISTIAN CABRERA GONZÁLEZ](https://cristiancg.es)
+                       TRABAJO REALIZADO POR: JESÚS DÍAZ MUÑOZ y CRISTIAN CABRERA GONZÁLEZ
+                                    
+                                   
                       
                                       CREA TU APLICACIÓN CON ANGULAR 4
 
