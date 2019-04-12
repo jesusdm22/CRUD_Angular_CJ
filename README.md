@@ -9,7 +9,7 @@
                       
                                       CREA TU APLICACIÓN CON ANGULAR 4
 
-                                     [Cristian Cabrera González Portfolio](https://cristiancg.com)
+                                    [Cristian Cabrera González Portfolio](https://cristiancg.com)
                                         [Jesús Díaz Muñoz Portfolio](https://jdiaz.es)
 
 -----------------------------------------------------------------------------------------------------------
