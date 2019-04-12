@@ -1,12 +1,13 @@
-                          ___   _   _  _____  _   _  _       ___  ______        ___
-                         / _ \ | \ | ||  __ \| | | || |     / _ \ | ___ \      /   |
-                        / /_\ \|  \| || |  \/| | | || |    / /_\ \| |_/ /     / /| |
-                        |  _  || . ` || | __ | | | || |    |  _  ||    /     / /_| |
-                        | | | || |\  || |_\ \| |_| || |____| | | || |\ \     \___  |
-                        \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
+                            ___   _   _  _____  _   _  _       ___  ______        ___
+                           / _ \ | \ | ||  __ \| | | || |     / _ \ | ___ \      /   |
+                          / /_\ \|  \| || |  \/| | | || |    / /_\ \| |_/ /     / /| |
+                          |  _  || . ` || | __ | | | || |    |  _  ||    /     / /_| |
+                          | | | || |\  || |_\ \| |_| || |____| | | || |\ \     \___  |
+                          \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
 
-                      TRABAJO REALIZADO POR JESÚS DÍAZ MUÑOZ Y CRISTIAN CABRERA GONZÁLEZ
-                              -----	CREA TU APLICACIÓN CON ANGULAR 4   -----
+                       TRABAJO REALIZADO POR JESÚS DÍAZ MUÑOZ Y CRISTIAN CABRERA GONZÁLEZ
+                       
+                                      CREA TU APLICACIÓN CON ANGULAR 4
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -32,7 +33,7 @@ comenzar debemos situarnos en la carpeta /opt.
 
 2. Cuando ya nos hemos situado en la carpeta /opt, lo que debemos hacer es muy simple:
 
-                     git clone https://github.com/jesusdm22/CRUD_Angular_CJ.git
+                         git clone https://github.com/jesusdm22/CRUD_Angular_CJ.git
 
 3. Esto comenzará a extraer todo el contenido de este contenedor Git el cual aloja la aplicación con la
 que queremos trabajar.
@@ -40,12 +41,12 @@ que queremos trabajar.
 4. Una vez se haya extraido, entramos dentro de la carpeta que nos habrá dejado y solo nos quedará lanzar
 la aplicación mediante el siguiente comando:
 
-                           ng serve --host <Tu IP donde lanzarás la app>
+                              ng serve --host <Tu IP donde lanzarás la app>
                           
 5. Todo debe salir correctamente y el proyecto debe empezar a compilar hasta el 100%. Una vez llegamos a
 este punto, el proyecto se iniciará y se podrá acceder a él desde nuestro navegador web con la dirección:
 
-                                         <Tu IP o host>:4200
-                                     EJ: angularapp.com:4200
+                                            <Tu IP o host>:4200
+                                          EJ: angularapp.com:4200
                                      
-                             ¡Y listo... ya tendríamos nuestra web Angular funcionando!
+                            ¡Y listo... ya tendríamos nuestra web Angular funcionando!
