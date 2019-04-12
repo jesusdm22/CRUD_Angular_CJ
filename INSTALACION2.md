@@ -41,7 +41,8 @@ que queremos trabajar.
 4. Una vez se haya extraido, entramos dentro de la carpeta que nos habrá dejado y solo nos quedará lanzar
 la aplicación mediante el siguiente comando:
 
-                              ng serve --host <Tu IP donde lanzarás la app>
+                                 ng serve --host <Tu IP donde lanzarás la app>
+                                      EJ: ng serve --host angularapp.com
                           
 5. Todo debe salir correctamente y el proyecto debe empezar a compilar hasta el 100%. Una vez llegamos a
 este punto, el proyecto se iniciará y se podrá acceder a él desde nuestro navegador web con la dirección:
@@ -49,4 +50,4 @@ este punto, el proyecto se iniciará y se podrá acceder a él desde nuestro nav
                                             <Tu IP o host>:4200
                                           EJ: angularapp.com:4200
                                      
-                            ¡Y listo... ya tendríamos nuestra web Angular funcionando!
+                            ¡Y listo... ya tendríamos nuestra app Angular funcionando!
