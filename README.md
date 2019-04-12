@@ -6,13 +6,9 @@
                        \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
 
                        TRABAJO REALIZADO POR: JESÚS DÍAZ MUÑOZ y CRISTIAN CABRERA GONZÁLEZ
-                                    
-                                   
                       
-                                      CREA TU APLICACIÓN CON ANGULAR 4
+                                        CREA TU APLICACIÓN CON ANGULAR 4
 
-                                    [Cristian Cabrera González Portfolio](https://cristiancg.com)
-                                        [Jesús Díaz Muñoz Portfolio](https://jdiaz.es)
 
 -----------------------------------------------------------------------------------------------------------
 
