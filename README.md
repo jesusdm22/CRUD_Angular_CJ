@@ -6,7 +6,7 @@
                        \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
 
                                     TRABAJO REALIZADO POR:
-                                    [JESÚS DÍAZ MUÑOZ](https://jdiaz.es)
+                                    [JESÚS DÍAZ MUÑOZ](https://www.jdiaz.es)
                                    [CRISTIAN CABRERA GONZÁLEZ](https://cristiancg.es)
                       
                                       CREA TU APLICACIÓN CON ANGULAR 4
