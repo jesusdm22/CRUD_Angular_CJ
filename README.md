@@ -5,7 +5,7 @@
                        | | | || |\  || |_\ \| |_| || |____| | | || |\ \     \___  |
                        \_| |_/\_| \_/ \____/ \___/ \_____/\_| |_/\_| \_|        |_/
 
-                      TRABAJO REALIZADO POR JESÚS DÍAZ MUÑOZ Y CRISTIAN CABRERA GONZÁLEZ
+#                      TRABAJO REALIZADO POR JESÚS DÍAZ MUÑOZ Y CRISTIAN CABRERA GONZÁLEZ
                       
                                       CREA TU APLICACIÓN CON ANGULAR 4
 
@@ -112,4 +112,4 @@ este punto, el proyecto se iniciará y se podrá acceder a él desde nuestro nav
                                             <Tu IP o host>:4200
                                           EJ: angularapp.com:4200
                                      
-                            ¡Y listo... ya tendríamos nuestra web Angular funcionando!
+#                            ¡Y listo... ya tendríamos nuestra web Angular funcionando!
