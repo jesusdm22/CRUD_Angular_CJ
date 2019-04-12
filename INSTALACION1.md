@@ -40,7 +40,6 @@ En caso de no tenerlo, se debería hacer un aumento de memoria swap para evitar 
 de trabajo y tareas del servidor sea demasiado alto.
 
 -----------------------------------------------------------------------------------------------------------
-LOS SIGUIENTES PASOS (1 al 5) SE PUEDEN OMITIR SI YA TENEMOS ANGULAR INSTALADO
 
 INSTALACIÓN DE NODEJS + ANGULAR 4
 
