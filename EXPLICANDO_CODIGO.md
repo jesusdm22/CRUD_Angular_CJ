@@ -40,4 +40,18 @@ No obstante, en caso de querer personalizar la aplicación con tu propio estilo,
 archivo como un archivo CSS común y corriente.
 
 
-3. 
+3. APP.COMPONENT.TS
+
+Es el archivo principal de extensión TypeScript donde desarrollamos todo el tema relacionado con Angular.
+En él, creamos el Array que almacena a las personas que se listan en la lista de nuestra aplicación así
+como tenemos las propiedades para poder crear un nuevo empleado, modificarlo o eliminarlo del Array.
+
+Como se ve a continuación, la estructura del documento es similar a la de otros archivos de diferente
+lenguaje aunque la sintaxis es diferente.
+
+
+![Sin título2](https://user-images.githubusercontent.com/33510012/56500614-dc810780-650b-11e9-8c76-2ed22c26e42c.png)
+
+
+No hay mucho más por ver. Estos son los pilares para crear una aplicación SENCILLA de Angular. Ya el límite
+lo pones tú así que a disfrutar programando y buena suerte ;-)
