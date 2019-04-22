@@ -27,7 +27,7 @@ el GRID de Bootstrap y organizando su contenido (logo, tabla de personas, formul
 simple y sencilla.
 
 
-https://user-images.githubusercontent.com/33510012/56500074-b22e4a80-6509-11e9-9d8b-4a525a77565d.png
+![Sin título](https://user-images.githubusercontent.com/33510012/56500074-b22e4a80-6509-11e9-9d8b-4a525a77565d.png)
 
 
 2. APP.COMPONENT.CSS
