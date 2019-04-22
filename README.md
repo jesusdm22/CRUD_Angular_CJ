@@ -114,8 +114,3 @@ este punto, el proyecto se iniciará y se podrá acceder a él desde nuestro nav
                                           EJ: angularapp.com:4200
                                      
                             ¡Y listo... ya tendríamos nuestra web Angular funcionando!
-                            
-                            
-                            
-                            ![Sin título](https://user-images.githubusercontent.com/33510012/56500074-b22e4a80-6509-11e9-9d8b-4a525a77565d.png)
-                            
