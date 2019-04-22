@@ -54,4 +54,4 @@ lenguaje aunque la sintaxis es diferente.
 
 
 No hay mucho más por ver. Estos son los pilares para crear una aplicación SENCILLA de Angular. Ya el límite
-lo pones tú así que a disfrutar programando y buena suerte ;-)
+lo pones tú así que a disfrutar programando y buena suerte ;-).
